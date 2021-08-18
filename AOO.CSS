@@ -1,0 +1,35 @@
+body{
+    background-color: chartreuse;
+}
+h1{
+    font-size: 40px;
+    font-weight: bold;
+font-style: italic;
+}
+div{
+    text-align: center;
+}
+.main{
+border-color: rgb(190, 33, 33);
+border-width: 50px;
+border-bottom-left-radius: 200px;
+border-top-right-radius: 200px;
+border-style: solid;
+}
+input{
+    width: 250px;
+    height: 100px;
+    font-size: 70px;
+    background-color: rgb(219, 235, 81);
+    font-style: italic;
+}
+button{
+
+    width: 100px;
+    height: 65px;
+    color: rgb(15, 172, 235);
+    font-size: 40px;
+    background-color: rgb(131, 22, 255);
+    font-weight: bold;
+
+}
